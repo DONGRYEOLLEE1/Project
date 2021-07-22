@@ -1,0 +1,18 @@
+연구 1
+dplyr : 데이터 가공을 위한 패키지
+ggplot2 : 데이터 시각화
+gird : ggplot2을 레이아웃하기 위한 패키지
+gtable : grid 패키지 위에 빌드 된 레이아웃 엔진 / ggplot2을 레이아웃하기 위한 패키지
+gridExtra : 한 페이지에 다수의 그래프 시각화를 위한 패키지
+
+
+연구 2
+dplyr  : 데이터 가공 
+caret : 회귀분류 및 모델링
+ggplot2 : 데이터 시각화 
+e1071 : SVM
+randomForest : 랜덤포레스트
+rpart : 디시젼트리
+rpart.plot : 디시젼트리 시각화
+
+

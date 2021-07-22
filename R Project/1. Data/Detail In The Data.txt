@@ -1,0 +1,7 @@
+Subject 2
+- 1차 스텟만으로 MVP 예측 -> RAW데이터의 2차스텟은 모두 제외, 시즌득점을 경기당 평균득점으로 환산(PT)
+
+- MVP 추가된 특성 : MVP ( 0 = NOT_MVP , 1 = MVP ),  PT (경기당 평균득점)
+
+- Seasons_Stats_Last 추가된 특성 : MVP ( 0 = probably_not_MVP , 1 = probably_MVP )  
+	** probably_MVP는 basketball-reference 사이트의 MVP-Tracker 수치를 참고하였음.
