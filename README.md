@@ -47,8 +47,8 @@
             1. 환경부 폐기물 발생 및 처리현황, 인문사회 데이터(인구증가율, 인구분포도, 생활수준 등) 및 제공 데이터를 활용하여 각 지역별 재활용 쓰레기 발생량을 예측
             2. 예측된 발생량을 활용하여 광양시 공동주택 내 재활용품 자동수거기 50개소의 설치 위치 도출을 목적
 
-                * Source : https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2107_002
-                * 최종결과물은 `8. Modify` 폴더 확인
+            > Source : https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2107_002
+            > 최종결과물은 `8. Modify` 폴더 확인
 
 
 ## 6. Baron System
