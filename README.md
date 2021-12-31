@@ -6,6 +6,8 @@
     - NBA 경기데이터 분석
         1. NBA 경기데이터를 통해 각 포지션별 선수들의 스텟 분석 후 전성기 나이대를 알아보기
         2. 역대MVP 스텟을 통해 2020-21 NBA MVP 예측해보기
+            - 모델링
+                - RandomForest, DecisionTree, SVM >> 최종 RF 채택
 
 
 ## 2. Python Project 1
@@ -60,12 +62,15 @@
             - 모델 예측을 통한 그래프와 실제 데이터와의 유사성 확인
         2. 데이터
             - 설치된 부표를 통해 하루 약 80,000개의 Real-time 센서데이터
-            - 4일치 데이터셋 제공 >> 약 280,000개 데이터
+            - 5일치 데이터셋 제공 >> 약 280,000개 데이터
         3. 전처리
             - 필터 적용 : Kalman Filter, Low-pass Filter, High-pass Filter, Band-pass Filter ...
         4. 모델링
             - SVR, XGBoost > GridSearch
-            - RNN, LSTM, GRU, Prophet
+            - RNN, IRNN, LSTM, GRU, Prophet
+
+- Reference
+> [IRNN_Paper](https://arxiv.org/abs/1504.00941)
 
 
 ## 7. Mini Project
