@@ -5,7 +5,7 @@
 - 빅데이터 마에스트로과정 R 프로젝트
     - NBA 경기데이터 분석
         1. NBA 경기데이터를 통해 각 포지션별 선수들의 스텟 분석 후 전성기 나이대를 알아보기
-        2. 역대MVP 스텟을 통해 2020-21 NBA MVP 예측해보기
+        2. 역대MVP 스텟을 통해 2020-21 NBA MVP 예측해보기 (1차 Stat을 통해)
             - 모델링
                 - RandomForest, DecisionTree, SVM >> 최종 RF 채택
 
@@ -49,7 +49,7 @@
         1. 환경부 폐기물 발생 및 처리현황, 인문사회 데이터(인구증가율, 인구분포도, 생활수준 등) 및 제공 데이터를 활용하여 각 지역별 재활용 쓰레기 발생량을 예측
         2. 예측된 발생량을 활용하여 광양시 공동주택 내 재활용품 자동수거기 50개소의 설치 위치 도출을 목적
 
-> Source : https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2107_002
+> Source : https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2107_002<br></br>
 > 최종결과물은 `8. Modify` 폴더 확인
 
 
