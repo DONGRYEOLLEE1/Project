@@ -70,7 +70,7 @@
             - RNN, IRNN, LSTM, GRU, Prophet
 
 - Reference
-> [IRNN_Paper](https://arxiv.org/abs/1504.00941) 『A Simple Way to Initialize Recurrent Networks of Rectified Linear Units』
+> [IRNN_Paper](https://arxiv.org/abs/1504.00941) 『A Simple Way to Initialize Recurrent Networks of Rectified Linear Units』, Quoc V. Le, Navdeep Jaitly, Geoffrey E. Hinton
 
 
 ## 7. Mini Project
