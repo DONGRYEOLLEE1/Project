@@ -70,6 +70,10 @@
             - RNN, IRNN, LSTM, GRU, Prophet
 
 - Reference
+> [CNN LSTM paper](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO202005653789386&oCn=JAKO202005653789386&dbt=JAKO&journal=NJOU00431883) 『CNN-LSTM Combination Method for Improving Particular Matter Contamination (PM2.5) Prediction Accuracy』, 황철현, 신강욱
+
+> [CNN LSTM 참고](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/)
+
 > [IRNN_Paper](https://arxiv.org/abs/1504.00941) 『A Simple Way to Initialize Recurrent Networks of Rectified Linear Units』, Quoc V. Le, Navdeep Jaitly, Geoffrey E. Hinton
 
 
